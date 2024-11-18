@@ -1,0 +1,222 @@
+[
+    {
+        "id": "Juguetes-01",
+        "titulo": "Triciclo",
+        "imagen": "https://scontent.fvvc2-1.fna.fbcdn.net/v/t39.30808-6/458043537_122107932896422523_5162535989267176032_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGacbmkhkRWcsQ57fw6nA51mXu-uOIFdcOZe7644gV1w0gItMQjh7bSRcKVSrEfMt_AyYTJ48_idSH_zbbjtCrm&_nc_ohc=CbA88b2rvA0Q7kNvgFz_i7F&_nc_zt=23&_nc_ht=scontent.fvvc2-1.fna&_nc_gid=AwAY60nHf15XENDQ5m5-5pC&oh=00_AYB7ogfm_tIZ9JYoFojyGar3ASbd3yzdJNDWUCsuIZUS3A&oe=674152EB",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 190000
+    },
+    {
+        "id": "Juguetes-02",
+        "titulo": "Triciclo",
+        "imagen": "https://scontent.fvvc2-1.fna.fbcdn.net/v/t39.30808-6/458245037_122107932824422523_9045292938636424906_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFCYPK9bhkzEpNzN1mVnuVVSSAxmBTmL7xJIDGYFOYvvJ97sprDYaJjm82uv_ltuQGh4UcWIxQJcpygrCuGDq29&_nc_ohc=KU1STXQMgEQQ7kNvgHMc_Y7&_nc_zt=23&_nc_ht=scontent.fvvc2-1.fna&_nc_gid=ABuhqGl-9P6rjLFVssnRdsu&oh=00_AYC-NhtE0UzOOeBHM_MPEURcAfaMR6tePYxzlTkUaFP7iQ&oe=674151B0",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 190000
+    },
+    {
+        "id": "Juguetes-03",
+        "titulo": "Triciclo",
+        "imagen": "https://scontent.fvvc2-1.fna.fbcdn.net/v/t39.30808-6/457811579_122107932788422523_2625267462119751648_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFOVJXZVLi9MM5xtYriwYd4C1yko6cWxxgLXKSjpxbHGASt1CvyaL-6AVuFPJ8perqs_gXZVMMn0EqLO5QW0dek&_nc_ohc=WSPgblCA1XwQ7kNvgHc6WYQ&_nc_zt=23&_nc_ht=scontent.fvvc2-1.fna&_nc_gid=Admyg9dKQLcRJ4XU9DXZzK0&oh=00_AYDUCKedgkgl9A2-Z3mHAdGvrZL5-asRFJkDM73RlAFfXA&oe=67415788",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 190000
+    },
+    {
+        "id": "Juguetes-04",
+        "titulo": "Triciclo",
+        "imagen": "https://scontent.fvvc2-1.fna.fbcdn.net/v/t39.30808-6/458302802_122107932860422523_3187160255675289413_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEEPef_vl3TSZb7ZxOl40Z-y9te40mJKqfL217jSYkqp3uQDhdpusmbdiNZ1OaH04mSmJVCyrf3sXC7-lzM8iyb&_nc_ohc=FtC6mFv2tmUQ7kNvgF2fpvL&_nc_zt=23&_nc_ht=scontent.fvvc2-1.fna&_nc_gid=Admyg9dKQLcRJ4XU9DXZzK0&oh=00_AYAzhSRYKQU3c0rOyY4WP6Xs2HZKOqUV-tse8yZJpAXicA&oe=67414860",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 190000
+    },
+    {
+        "id": "Juguetes-05",
+        "titulo": "Cubo Didactico",
+        "imagen": "https://scontent.fvvc2-1.fna.fbcdn.net/v/t39.30808-6/460963712_122110894652422523_8032942325418434342_n.jpg?stp=dst-jpg_s206x206&_nc_cat=100&ccb=1-7&_nc_sid=50ad20&_nc_eui2=AeHrwOuu4mPPDagmVE0j7pBYijncNk1FchuKOdw2TUVyG9QDpGBxUiy0dIHd8YaAP8kUWAqU2uQ-DAXJla5lj6h5&_nc_ohc=8fs-gUkujjMQ7kNvgGooZqL&_nc_zt=23&_nc_ht=scontent.fvvc2-1.fna&_nc_gid=AoVo4SxuPYgY3pmv12GBdKz&oh=00_AYDEuiGREwH35IXLzS9xtQ3HSQk0W_49HIlRFaqn9kjFwg&oe=67414CCB",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "Juguetes-06",
+        "titulo": "Cubo Didactico",
+        "imagen": "https://scontent.fvvc2-1.fna.fbcdn.net/v/t39.30808-6/461513779_122110894640422523_4587844791344944130_n.jpg?stp=dst-jpg_p526x296&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGuGanoyQ9LdDSX6jegMqj0OgIfq2TF8qc6Ah-rZMXypwbO_ZBV2C5Xn1AswJBcDrGGkg8h28gzXLPmIMI5QMoO&_nc_ohc=EYzGa9Zuet4Q7kNvgHGQ7wy&_nc_zt=23&_nc_ht=scontent.fvvc2-1.fna&_nc_gid=AlxaARz1TB0uge1f1eHgkaC&oh=00_AYCbsoNHMXJZqB0kGNISY3J7yBdyahnYwKlonecPfrN9ig&oe=67414050",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "Juguetes-07",
+        "titulo": "Cubo Didactico",
+        "imagen": "https://scontent.fvvc2-1.fna.fbcdn.net/v/t39.30808-6/461514940_122110894310422523_8652527188756524884_n.jpg?stp=dst-jpg_s600x600&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGhO9BwScJCMrnOfws2KPWczHSBdL4PSvbMdIF0vg9K9qH0488E8A7h9Vo0KreIh8qQt5Mk7YiXD9jkOfMXLq9T&_nc_ohc=AgsO69VBYsUQ7kNvgFrw4Gx&_nc_zt=23&_nc_ht=scontent.fvvc2-1.fna&_nc_gid=AlxaARz1TB0uge1f1eHgkaC&oh=00_AYB3B7ycUJ02dQvHR0MGWG0OTCpeMaH1BMhsCoOZ11TGlA&oe=674155D0",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "Juguetes-08",
+        "titulo": "Andadera 4 en 1",
+        "imagen": "https://scontent.fvvc2-1.fna.fbcdn.net/v/t39.30808-6/461672922_122110888778422523_6723426999320625400_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGoUMw4Hpf5vddYQmoJrtaPXACetOmtfGtcAJ606a18a_1jYuQA6sY0agU9CFBT8xiy56sFCEzhzl6cC8y7ZMjN&_nc_ohc=12FbVojXOAsQ7kNvgHmBDf2&_nc_zt=23&_nc_ht=scontent.fvvc2-1.fna&_nc_gid=Aimot5nHLr_U1B8PQr6Er0C&oh=00_AYAXvR_fx4L3o0dVDFwJDb8jpOhs9YQzRizZY40VeForVw&oe=67415426",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 175000
+    },
+    {
+        "id": "Juguetes-09",
+        "titulo": "Cangrejo infantil",
+        "imagen": "https://scontent.fvvc2-1.fna.fbcdn.net/v/t39.30808-6/467490504_122114720078422523_8869364830805734337_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEZm9SX07kbnkUtHWKz3MkU3wyY_LoAQRffDJj8ugBBF_k2tszHK1vCSWVzHOS2vyq8bnvHKWjIWzE8IX1c08hv&_nc_ohc=TpVTNtoOYEMQ7kNvgGTcJ1r&_nc_zt=23&_nc_ht=scontent.fvvc2-1.fna&_nc_gid=A_dfyT8HN4eL1UgP2N1J0Zx&oh=00_AYC3CB3P9bsgONLrNmh2CSJU_tSIHboGaWJfSmtbtLhkkQ&oe=67413574",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Juguetes-10",
+        "titulo": "Cocina infantil",
+        "imagen": "./img/ropa/02.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Juguetes-11",
+        "titulo": "Nutria Dormilona",
+        "imagen": "./img/ropa/03.jpg",
+        "categoria": {
+            "nombre": "Juguetes",
+            "id": "Juguetes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Ropa-01",
+        "titulo": "Camiseta 04",
+        "imagen": "./img/ropa/04.jpg",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "Ropa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Ropa-02",
+        "titulo": "Camiseta",
+        "imagen": "./img/ropa/05.jpg",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "Ropa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Ropa-03",
+        "titulo": "Camiseta",
+        "imagen": "./img/ropa/06.jpg",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "Ropa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Ropa-04",
+        "titulo": "Camiseta",
+        "imagen": "./img/ropa/07.jpg",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "Ropa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Ropa-05",
+        "titulo": "Camiseta",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "Ropa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Calzado-01",
+        "titulo": "zapatos para niñ@s",
+        "imagen": "./img/pantalones/zapatos1.jpg",
+        "categoria": {
+            "nombre": "Calzado",
+            "id": "Calzado"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Calzado-02",
+        "titulo": "zapatos para niñ@s",
+        "imagen": "./img/pantalones/zapatos2.jpg",
+        "categoria": {
+            "nombre": "Calzado",
+            "id": "Calzado"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Productito-01",
+        "titulo": "Pantalón",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Productito",
+            "id": "Productito"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Productito-02",
+        "titulo": "Pantalón",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Productito",
+            "id": "Productito"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Productito-03",
+        "titulo": "Pantalón",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Productito",
+            "id": "Productito"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    }
+]
